@@ -1,6 +1,0 @@
-Branch 1 
-
-git init
-git checkout -b branch-1 # Create a new branch and check it out
-
-git add git-commands.txt
